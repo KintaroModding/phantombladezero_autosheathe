@@ -1,0 +1,14 @@
+{
+  "name": "Auto Sheathe",
+  "folder": "phantombladezero_autosheathe",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "Puts your weapon away a few seconds after a fight, with the game's own sheathe ability and animation. Settings in config.lua, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v4.0.0"
+}

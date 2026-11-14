@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Auto Sheathe",
+  "summary": "Puts your weapon away a few seconds after a fight, with the game's own sheathe animation. Settings in config.lua, live in game.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["quality-of-life", "immersion"],
+  "requires": ["UE4SS (v4.0.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}
