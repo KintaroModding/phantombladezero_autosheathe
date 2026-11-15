@@ -18,7 +18,7 @@ touch your save.
 
 ## Screenshots
 
-![Auto Sheathe](docs/cover.png)
+![Auto Sheathe](docs/cover.webp)
 
 ## How to install
 
